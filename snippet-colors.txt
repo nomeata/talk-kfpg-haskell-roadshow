@@ -1,0 +1,3 @@
+colors :: [Color]
+colors = [red, green, blue, yellow, cyan, magenta,
+          violet, azure, aquamarine, orange]

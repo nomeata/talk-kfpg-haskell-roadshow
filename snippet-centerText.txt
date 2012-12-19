@@ -1,0 +1,6 @@
+centerText :: Char -> Picture
+centerText c = 
+    color black $
+    scale 0.1 0.1 $
+    translate (-50) (-50) $
+    text [c]
